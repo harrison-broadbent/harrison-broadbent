@@ -1,24 +1,5 @@
 <h1 align="center">Hey 👋, I'm Harrison</h1>
-
-<br/>  
-
-<table><tr><td valign="top" width="50%">
-
-- Currently building -> 🔶[Jobly - Turn your company Notion into an ATS, careers website and recruiting hub](https://jobly.so)  
-  
-
-- Projects -> 👨‍💻 [https://harrisonbroadbent.com/software](https://harrisonbroadbent.com/software)  
-  
-
-- Email -> 📫 **mail@harrisonbroadbent.com**  
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harrison-broadbent&label=Profile%20Views%20-%3E&color=ff811a&style=flat-square" alt="harrison-broadbent" /> </p>
-
-
-</td><td valign="top" width="50%">
-
 <div align="center">
-  <img src="https://d33wubrfki0l68.cloudfront.net/4169e2808aa87ecea6392642ee9f823462eef577/252cb/images/profile.jpg" align="center" style="width: 50%; border-radius: 4px; margin-bottom: 2rem" />
 
   <div> 
     <a href="https://github.com/harrison-broadbent" target="_blank">
@@ -32,10 +13,27 @@
     </a>  
   </div>
 
-</div>  
+</div> 
+
+<br/>  
+
+<div align="center"> 
+<table><tr><td valign="top" width="50%">
+
+- Currently building -> 🔶[Jobly - Turn your company Notion into an ATS, careers website and recruiting hub](https://jobly.so)  
+  
+
+- Projects -> 👨‍💻 [https://harrisonbroadbent.com/software](https://harrisonbroadbent.com/software)  
+  
+
+- Email -> 📫 **mail@harrisonbroadbent.com**  
+
 
 
 </td></tr></table>  
+</div>
+
+
 
 <br/>  
 
@@ -77,3 +75,7 @@
 </td></tr></table>  
 
 <br/> 
+
+<div align="center">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harrison-broadbent&label=Profile%20Views%20-%3E&color=ff811a&style=flat-square" alt="harrison-broadbent" /> </p>
+</div>
