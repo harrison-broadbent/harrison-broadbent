@@ -20,7 +20,7 @@
 <div align="center"> 
 <table><tr><td valign="top" width="50%">
 
-- Currently building -> 🔶[Jobly - Turn your company Notion into an ATS, careers website and recruiting hub](https://jobly.so)  
+- Currently building ➡️ [buybase - Quickly sell access to your Airtable, Notion databse, or spreadsheet](https://buybase.io)  
   
 
 - Projects -> 👨‍💻 [https://harrisonbroadbent.com/software](https://harrisonbroadbent.com/software)  
