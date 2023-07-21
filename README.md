@@ -20,7 +20,7 @@
 <div align="center"> 
 <table><tr><td valign="top" width="50%">
 
-- Currently bloggin at [RailsNotes — The Ruby on Rails guides you wished you had](https://railsnotes.xyz)  
+- Currently blogging at 🟥[RailsNotes — The Ruby on Rails guides you wished you had](https://railsnotes.xyz)  
   
 
 - Projects: 👨‍💻 [https://harrisonbroadbent.com/software](https://harrisonbroadbent.com/software)  
