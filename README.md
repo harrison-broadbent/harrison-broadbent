@@ -7,8 +7,10 @@ You can find me online here —
 Currently, I'm building —
 - [A Ruby on Rails blog](https://railsnotes.xyz)  
 - [A Ruby on Rails newsletter](https://railsnotes.xyz/newsletter)  
-- [ActionMailer email templates and components](https://railsnotesui.xyz)  
-- [A command builder for Rails generator commands](https://railsg.xyz)  
+- [ActionMailer email templates and components](https://railsnotesui.xyz/email-templates)
+- [A Ruby on Rails Starter Kit](https://railsnotesui.xyz/starter-kit)
+- [A command builder for Rails generator commands](https://railsg.xyz)
+- [A tool to share affiliated Amazon cart links](https://affilicart.app) 
   
 <br/> 
 
