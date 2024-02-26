@@ -10,7 +10,7 @@ Currently, I'm building —
 - [ActionMailer email templates and components](https://railsnotesui.xyz/email-templates)
 - [A Ruby on Rails Starter Kit](https://railsnotesui.xyz/starter-kit)
 - [A command builder for Rails generator commands](https://railsg.xyz)
-- [A tool to share affiliated Amazon cart links](https://affilicart.app) 
+- [A tool to share your Amazon cart](https://amzcartshare.com) 
   
 <br/> 
 
