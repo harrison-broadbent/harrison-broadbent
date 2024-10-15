@@ -9,9 +9,9 @@ Currently, I'm building —
 - [A Ruby on Rails newsletter](https://railsnotes.xyz/newsletter)  
 - [ActionMailer email templates and components](https://railsnotesui.xyz/email-templates)
 - [A Ruby on Rails Starter Kit](https://railsnotesui.xyz/starter-kit)
-- [An extension to share your Amazon cart](https://amzcartshare.com)
-- [An extension to export your shopping carts to a CSV spreadsheet](https://cartexporter.com)
-- [A website to publish your Google Docs as websites](https://voltdocs.com)
+- [AMZ Cart Share: Share your Amazon cart](https://amzcartshare.com)
+- [Cart Exporter: Export your shopping carts to a CSV spreadsheet](https://cartexporter.com)
+- [Voltdocs: Publish your Google Docs as websites](https://voltdocs.com)
   
 <br/> 
 
