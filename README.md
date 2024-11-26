@@ -6,12 +6,11 @@ You can find me online here —
 
 Currently, I'm building —
 - [A Ruby on Rails blog](https://railsnotes.xyz)  
-- [A Ruby on Rails newsletter](https://railsnotes.xyz/newsletter)  
-- [ActionMailer email templates and components](https://railsnotesui.xyz/email-templates)
-- [A Ruby on Rails Starter Kit](https://railsnotesui.xyz/starter-kit)
+- [Ruby on Rails templates & components](https://railsnotesui.xyz)
 - [AMZ Cart Share: Share your Amazon cart](https://amzcartshare.com)
 - [Cart Exporter: Export your shopping carts to a CSV spreadsheet](https://cartexporter.com)
 - [Voltdocs: Publish your Google Docs as websites](https://voltdocs.com)
+- [Affimon: Scan & Monitor your Affiliate Links](https://affimon.com)
   
 <br/> 
 
