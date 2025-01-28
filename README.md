@@ -11,7 +11,7 @@ Currently, I'm building —
 - [Cart Exporter: Export your shopping carts to a CSV spreadsheet](https://cartexporter.com)
 - [Voltdocs: Publish your Google Docs as websites](https://voltdocs.com)
 - [Affimon: Scan & Monitor your Affiliate Links](https://affimon.com)
-- [TailwindCSS color palette / color picker — tailcolors](https://tailcolors.com)
+- [Tailcolors: TailwindCSS color palette / color picker](https://tailcolors.com)
   
 <br/> 
 
