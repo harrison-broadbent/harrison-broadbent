@@ -1,17 +1,19 @@
 # Hey 👋, I'm Harrison
 
-You can find me online here —
-- [@hrrsnbbnt on Twitter](https://twitter.com/hrrsnbbnt)
-- Email me at mail@harrisonbroadbent.com
+Find me online here —
+- Personal site: [harrisonbroadbent.com](https://harrisonbroadbent.com/about)
+- Email: mail@harrisonbroadbent.com
 
-Currently, I'm building —
+<hr />
+
+Some projects I'm currently working on:
 - [A Ruby on Rails blog](https://railsnotes.xyz)  
 - [Ruby on Rails templates & components](https://railsnotesui.xyz)
-- [AMZ Cart Share: Share your Amazon cart](https://amzcartshare.com)
 - [Cart Exporter: Export your shopping carts to a CSV spreadsheet](https://cartexporter.com)
 - [Voltdocs: Publish your Google Docs as websites](https://voltdocs.com)
-- [Affimon: Scan & Monitor your Affiliate Links](https://affimon.com)
 - [Tailcolors: TailwindCSS color palette / color picker](https://tailcolors.com)
+
+<!-- - [AMZ Cart Share: Share your Amazon cart](https://amzcartshare.com) -->
   
 <br/> 
 
