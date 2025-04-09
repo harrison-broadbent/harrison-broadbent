@@ -7,13 +7,12 @@ Find me online here —
 <hr />
 
 Some projects I'm currently working on:
-- [A Ruby on Rails blog](https://railsnotes.xyz)  
-- [Ruby on Rails templates & components](https://railsnotesui.xyz)
+- [RailsNotes: Ruby on Rails blog](https://railsnotes.xyz)  
+- [RailsNotes UI: Ruby on Rails templates & components](https://railsnotesui.xyz)
 - [Cart Exporter: Export your shopping carts to a CSV spreadsheet](https://cartexporter.com)
 - [Voltdocs: Publish your Google Docs as websites](https://voltdocs.com)
-- [Tailcolors: TailwindCSS color palette / color picker](https://tailcolors.com)
-
-<!-- - [AMZ Cart Share: Share your Amazon cart](https://amzcartshare.com) -->
+- [Tailcolors: Tailwind CSS v4 color palette / color picker](https://tailcolors.com)
+- [AttendList: Google Meet Attendance Tracker & extension](https://attendlist.com)
   
 <br/> 
 
