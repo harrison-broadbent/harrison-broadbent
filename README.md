@@ -8,11 +8,9 @@ Find me online here —
 
 Some projects I'm currently working on:
 - [RailsNotes: Ruby on Rails blog](https://railsnotes.xyz)  
-- [RailsNotes UI: Ruby on Rails templates & components](https://railsnotesui.xyz)
 - [Cart Exporter: Export your shopping carts to a CSV spreadsheet](https://cartexporter.com)
 - [Tailcolors: Tailwind CSS v4 color palette / color picker](https://tailcolors.com)
 - [AttendList: Google Meet Attendance Tracker & extension](https://attendlist.com)
-- [Pariparrot: Pricing localization & parity for Stripe subscriptions](https://pariparrot.com)
   
 <br/> 
 
